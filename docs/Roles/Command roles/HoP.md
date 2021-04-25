@@ -13,9 +13,13 @@ The job of the HoP is relatively simple: sit in your office, change people's job
 
 ### Officer by interim 
 In the absence of the [Captain](Captain.md),( missing, dead, asleep, absent ) you must, by interim, ensure the functions of it, until the role can be occupied or that you designate someone for that.  it's your job to take over their position until they are potentially cloned.
-The same goes for the positions of Head of Department such as the HOS
+
+The same goes for the positions of Head of Department such as the HOS.
+
 You will need to **do your best** to ensure this function. for the good of the station.
+
 Sometimes a HoS, or a department head come later than you.
+
 **You will have to give him  all the objects that belong to it.**
 
 
